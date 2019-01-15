@@ -1,4 +1,0 @@
-For this project, create two files:
-  hello.txt, with your name inside it
-  <your NetID>.txt, with "Hello" inside it
-
